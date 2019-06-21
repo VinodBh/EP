@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="22" started-at="2019-06-21T05:03:40Z" finished-at="2019-06-21T05:03:40Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="22" started-at="2019-06-21T05:03:40Z" finished-at="2019-06-21T05:03:40Z">
+      <class name="tests.TestPolicy">
+        <test-method status="PASS" signature="policyTestOne()[pri:0, instance:tests.TestPolicy@64616ca2]" name="policyTestOne" duration-ms="5" started-at="2019-06-21T05:03:40Z" finished-at="2019-06-21T05:03:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- policyTestOne -->
+        <test-method status="PASS" signature="policyTestThree()[pri:0, instance:tests.TestPolicy@64616ca2]" name="policyTestThree" duration-ms="1" started-at="2019-06-21T05:03:40Z" finished-at="2019-06-21T05:03:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- policyTestThree -->
+        <test-method status="PASS" signature="policyTestTwo()[pri:0, instance:tests.TestPolicy@64616ca2]" name="policyTestTwo" duration-ms="0" started-at="2019-06-21T05:03:40Z" finished-at="2019-06-21T05:03:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- policyTestTwo -->
+      </class> <!-- tests.TestPolicy -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
