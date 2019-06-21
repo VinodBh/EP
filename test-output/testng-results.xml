@@ -2,47 +2,47 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="11229" started-at="2019-06-21T06:37:23Z" finished-at="2019-06-21T06:37:34Z">
+  <suite name="Suite" duration-ms="8762" started-at="2019-06-21T12:41:40Z" finished-at="2019-06-21T12:41:49Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="11229" started-at="2019-06-21T06:37:23Z" finished-at="2019-06-21T06:37:34Z">
+    <test name="Test" duration-ms="8762" started-at="2019-06-21T12:41:40Z" finished-at="2019-06-21T12:41:49Z">
       <class name="tests.TestPolicy">
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.TestPolicy@4cb2c100]" name="afterMethod" is-config="true" duration-ms="3" started-at="2019-06-21T06:37:23Z" finished-at="2019-06-21T06:37:23Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.TestPolicy@4cb2c100]" name="afterMethod" is-config="true" duration-ms="4" started-at="2019-06-21T12:41:40Z" finished-at="2019-06-21T12:41:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.TestPolicy@4cb2c100]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-06-21T06:37:23Z" finished-at="2019-06-21T06:37:23Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.TestPolicy@4cb2c100]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-06-21T12:41:40Z" finished-at="2019-06-21T12:41:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="policyTestOne()[pri:0, instance:tests.TestPolicy@4cb2c100]" name="policyTestOne" duration-ms="10452" started-at="2019-06-21T06:37:23Z" finished-at="2019-06-21T06:37:34Z">
+        <test-method status="PASS" signature="policyTestOne()[pri:0, instance:tests.TestPolicy@4cb2c100]" name="policyTestOne" duration-ms="7940" started-at="2019-06-21T12:41:40Z" finished-at="2019-06-21T12:41:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- policyTestOne -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.TestPolicy@4cb2c100]" name="afterMethod" is-config="true" duration-ms="755" started-at="2019-06-21T06:37:34Z" finished-at="2019-06-21T06:37:34Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.TestPolicy@4cb2c100]" name="afterMethod" is-config="true" duration-ms="800" started-at="2019-06-21T12:41:48Z" finished-at="2019-06-21T12:41:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.TestPolicy@4cb2c100]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-06-21T06:37:34Z" finished-at="2019-06-21T06:37:34Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="policyTestThree()[pri:0, instance:tests.TestPolicy@4cb2c100]" name="policyTestThree" duration-ms="0" started-at="2019-06-21T06:37:34Z" finished-at="2019-06-21T06:37:34Z">
+        <test-method status="PASS" signature="policyTestThree()[pri:0, instance:tests.TestPolicy@4cb2c100]" name="policyTestThree" duration-ms="0" started-at="2019-06-21T12:41:49Z" finished-at="2019-06-21T12:41:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- policyTestThree -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.TestPolicy@4cb2c100]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-06-21T06:37:34Z" finished-at="2019-06-21T06:37:34Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="policyTestTwo()[pri:0, instance:tests.TestPolicy@4cb2c100]" name="policyTestTwo" duration-ms="0" started-at="2019-06-21T06:37:34Z" finished-at="2019-06-21T06:37:34Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- policyTestTwo -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.TestPolicy@4cb2c100]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-06-21T06:37:34Z" finished-at="2019-06-21T06:37:34Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.TestPolicy@4cb2c100]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-06-21T12:41:49Z" finished-at="2019-06-21T12:41:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.TestPolicy@4cb2c100]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-06-21T12:41:49Z" finished-at="2019-06-21T12:41:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.TestPolicy@4cb2c100]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-06-21T12:41:49Z" finished-at="2019-06-21T12:41:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="policyTestTwo()[pri:0, instance:tests.TestPolicy@4cb2c100]" name="policyTestTwo" duration-ms="0" started-at="2019-06-21T12:41:49Z" finished-at="2019-06-21T12:41:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- policyTestTwo -->
       </class> <!-- tests.TestPolicy -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->

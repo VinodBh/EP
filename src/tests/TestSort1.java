@@ -20,11 +20,9 @@ Collections.sort(al);
 for(Student st:al){  
 System.out.println(st.rollno+" "+st.name+" "+st.age);
 }
-System.out.println("SuM-----" + Student.sum(al, myEnum.ROLLNO.toString()));
-	
 
-	
-	
+
+System.out.println("SuM-----" + Student.sum(al, myEnum.ROLLNO.toString()));
 	char[] chars = new char[] {'\u0098'};
     String str = new String(chars);
     byte[] bytes = str.getBytes();
