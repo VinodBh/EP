@@ -72,8 +72,6 @@ public class PolicyTests extends AbstractList  {
 		nm.add(12);
 		nm.add(13);
 		nm.add(1);
-		nm.add(154);
-		nm.add(null);
 		//HashSet mySet = new HashSet(nm);
 		//System.out.println(mySet);
 		System.out.println("frequency of 13=" + Collections.frequency(nm, 12));
@@ -135,7 +133,7 @@ public class PolicyTests extends AbstractList  {
 		list2.add("zzz");
 		list2.add("xxx");
 		list2.add("yyy");
-		list2.add("yyy");
+		list2.add("yyymodified");
 				
 		list2.subList(2, 3);
 		System.out.println("Last index of yyy =" + list2.lastIndexOf(null));
