@@ -57,7 +57,11 @@ public static int sum(ArrayList<Student> st, String name) {
 	//sum modified at local-vb  --on 2
 	//method updated as per requirements - Git // on 3
 	//line 3.5 addded
+<<<<<<< HEAD
 	//addeed line 4 // this text added	
+=======
+	//addeed line 4 no changes accepted.
+>>>>>>> 7a5c40ddec3e95903c7cc48e8e311775369aae76
 }
 
 
