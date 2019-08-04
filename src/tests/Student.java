@@ -55,6 +55,7 @@ public static int sum(ArrayList<Student> st, String name) {
 	return sum;
 	//method updated as per requirements - Git
 	//sum modified at local-vb  --on 2
+	//method updated as per requirements - Git // on 3
 }
 
 
