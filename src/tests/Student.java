@@ -53,7 +53,7 @@ public static int sum(ArrayList<Student> st, String name) {
 	}
 	
 	return sum;
-	//method updated as per requirements - Git
+	//method updated as per requirements - Git // on 3
 }
 
 
