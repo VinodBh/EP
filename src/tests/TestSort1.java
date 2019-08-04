@@ -25,5 +25,6 @@ System.out.println("SuM-----" + Student.sum(al, myEnum.ROLLNO.toString()));
     String str = new String(chars);
     byte[] bytes = str.getBytes();
     System.out.println("new code"+ Arrays.toString(bytes));
+	//line added by vb// on git
 }  
 }  
